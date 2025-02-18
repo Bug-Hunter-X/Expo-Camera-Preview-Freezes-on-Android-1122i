@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with certain Android devices.  The preview freezes or becomes unresponsive after a period of time, or after taking multiple pictures. The camera module doesn't throw any error messages, just stops rendering the preview.
